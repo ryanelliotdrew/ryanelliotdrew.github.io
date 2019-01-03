@@ -10,3 +10,4 @@ _site
 codekit-config.json
 example/_site
 Gemfile.lock
+node_modules/.bin/gulp
