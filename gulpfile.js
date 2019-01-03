@@ -18,8 +18,9 @@ var messages = {
  * Build the Jekyll Site
  */
 gulp.task('jekyll-build', function (done) {
-    browserSync.notify(messages.jekyllBuild);
-    return cp.spawn('jekyll', ['build', '--config=_config.yml'], {stdio: 'inherit'})
+    //browserSync.notify(messages.jekyllBuild);
+    return cp.exec('jekyll', ['build', '--config=_config.yml'])
+        .on('error', (error) => gutil.log(gutil.colors.red(error.message)))
         .on('close', done);
 });
 
