@@ -25,15 +25,20 @@ icon:                your site icon path # /assets/img/icon.png [best 300px X 30
 disqus:              disqus_shortname # get it on https://disqus.com/admin/
 
 author:
-  name:           	 your name
+  name:           	 Ryan Drew
   url:            	 your site url
-  facebook:          username
+  facebook:          ryanelliotdrew
   twitter:           username
   google_plus:       username
   linkedin:          username
   dribbble:          username
   pinterest:         username
   kiva:              username
+  instagram:         ryanelliotdrew
+  email:             ryanelliotdrew@gmail.com
+
+webmaster:
+  name:              Jeremy Thompson
 
 fb_admins:           your facebook profile id
 fb_appid:            your facebook app id
