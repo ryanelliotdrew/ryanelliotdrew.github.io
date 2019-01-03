@@ -2168,6 +2168,7 @@ body {
   margin: 1.5rem auto;
   padding-left: 0;
   width: 50%;
+  display: inline-block;
 }
 .socialAccountList:before, .socialAccountList:after {
   content: " ";
@@ -2177,12 +2178,17 @@ body {
   clear: both;
 }
 
+.socialAccountLi {
+  display: inline-block;
+  width: 20%;
+}
+
 .socialAccount {
   display: inline-block;
   margin: 0;
   padding: 0px 15px;
-  width: 20%;
-  height: 50px;
+  width: 14.2%;
+  height: 25px;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: center center;
@@ -2193,11 +2199,6 @@ body {
 .socialAccount:hover {
   opacity: 1;
   -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=100)";
-}
-
-.socialAccountLi {
-  display: inline-block;
-  width: 14%;
 }
 
 .socialAccount--twitter {

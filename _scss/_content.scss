@@ -238,6 +238,14 @@
   margin: $leading auto;
   padding-left: 0;
   width: 50%;
+  display: inline-block;
+}
+
+.socialAccountLi {
+  display: inline-block;
+  width: 20%;
+  //vertical-align: middle;
+  //height: 100%;
 }
 
 .socialAccount {
@@ -245,8 +253,8 @@
   //float: left;
   margin: 0;
   padding: 0px 15px;
-  width: 20%;
-  height: 50px;
+  width: 14.2%;
+  height: 25px;
   text-decoration: none;
   background-repeat: no-repeat;
   background-position: center center;
@@ -256,11 +264,6 @@
   &:hover {
     opacity: 1;
   }
-}
-
-.socialAccountLi {
-  display: inline-block;
-  width: 14%;
 }
 
 .socialAccount--twitter {
