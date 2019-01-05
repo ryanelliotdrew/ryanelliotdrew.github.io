@@ -1,8 +1,6 @@
 ---
 layout: post
 title:  “Watering a Flower”
-date:   2019–01-04 01:00:00
-last_modified_at:  2019-01-05 01:00:00
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
 tags:  mickey
@@ -17,8 +15,9 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
 
 *“This is like waking up at 3am because you are hungry. So you head to the kitchen, and find out a giant insect already sticking some marmalade between two slices of bread. The insect offers the sandwich to you, as a sign of respect. You take a bite out of it, and start crying tears of joy. It’s a beautiful sandwich, and the winter is coming to an end﻿.” (dmsanct, 2016)*
 
-![Watering a Flower Cover Art](/assets/images/wateringaflower.jpg “Watering A Flower Cover Art")
-Fig 1. Hosono’s Watering a Flower cover art 
+<div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}wateringaflowercover.jpg);"></div>
+
+Fig 1. Hosono’s Watering a Flower cover art
 
 A YouTube comment of this nature can be interpreted in one of two ways — either as the absurd rambling of a cracked internet user who has failed to take their daily meds, or, perhaps, as a poetic attempt to summarize a bizarre sonic manifestation. At first glance, the former of these two interpretations seems to be the easiest conclusion. What can possibly be gained by taking some dude’s giant, sandwich-serving insect fantasys seriously? In truth, probably not that much. However, whatever it was that inspired such unusually vivid imagery, YouTuber dmssanct was certainly not the first, or only one, to experience it.
 
@@ -32,7 +31,7 @@ Huh.
 So the question becomes, what exactly is the connection between Hosono’s “Watering a Flower” and this trend of surrealist storytelling? And furthermore, is there a discernible theme or commonality among these comments?
 First off, it’s important to understand the album’s origin. Watering a Flower was commissioned in 1983 by Japanese retail company, MUJI, as a selection of background music for in-store play. In the business world, this is directly comparable to the brand of background music, Muzak, which was founded just a few years prior. The logic is simple: ensure the comfort of potential money-spenders by means of a carefully cultivated sonic surrounding, and profit margins will increase. In short, this is why commercial locations play music — especially music that is noninvasive, merely blending itself within the environment. In achieving this, a common tactic amongst muzak creators is to rely heavily on familiarity, leaving as little for the listener to “figure out” as possible. An easy way to do this is to completely remove the human voice from the mix, and to reduce the instrumentation or simplify the overall timbre. With this in mind, the album’s first track is certainly not invasive with regards to its perceived complexity! For a quarter of an hour, Hosono’s “Talking” features a slow, high-pitched pulse that acts as constant throughout the track, and is accompanied by the incessant repetition of a simple chordal motif. While this harmonic progression is repeated ad nauseum, subtle rhythmic variations create a sense of unpredictability in a seemingly predictable context. Given the simplistic, repeated nature of the melodic gesture, rhythmic deviations are inherently accentuated, and thus, the dimension of time is foregrounded.
 
-Fig 2. The opening chordal gesture in Hosono’s “Talking” 
+Fig 2. The opening chordal gesture in Hosono’s “Talking”
 
 Another commenter, Martin Dufek, calls us “fools” before asserting that “this not music, this is just [the] progress of time!﻿” Ironic or not, Dufek’s contribution does highlight Hosono’s creative outset. As the listener is endlessly dragged through the series of chords (seen in figure 1), there exists a distinct lack of development or forward motion within the music. We often analogize melodic line with the human voice, namely, in the way that subtle changes of inflection characterize the intent of an expression. In the same way that an answer follows a question in everyday language, resolution follows instability in music… or at least, that’s what our brain naturally expects. Hosono’s “Talking” exemplifies just the opposite, with the principle theme landing on V, the dominant, and never actually resolving to I, the tonic. This “question” is repeated over and over again to no avail. With each repetition, Hosono introduces subtle rhythmic variance, posing the exact same question in a slightly altered contexts. With no closure, the question persists with no regard for passing time.
 
