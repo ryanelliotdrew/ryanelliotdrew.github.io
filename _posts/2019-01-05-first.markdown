@@ -5,14 +5,12 @@ excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while stil
 categories: history
 tags:  mickey
 image:
-  feature: steamboat.jpg
+  feature: wateringaflowercover.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
-
 *“This is like waking up at 3am because you are hungry. So you head to the kitchen, and find out a giant insect already sticking some marmalade between two slices of bread. The insect offers the sandwich to you, as a sign of respect. You take a bite out of it, and start crying tears of joy. It’s a beautiful sandwich, and the winter is coming to an end﻿.” (dmsanct, 2016)*
 
 <div class="img img--fullContainer img--14xLeading" style="background-image: url({{ site.baseurl_posts_img }}wateringaflowercover.jpg);"></div>
@@ -24,6 +22,15 @@ A YouTube comment of this nature can be interpreted in one of two ways — eithe
 Haruomi Hosono’s 1984 album, Watering a Flower, is peculiar, to say the least. Comprised of three separate tracks, “Talking”, “Growth”, and “Muji Original BGM” (each approximately 15 minutes in length), the opening track appears to have sparked the most conversation.
 
 Here’s a link the full album: https://youtu.be/34UutDrXV2Q
+
+## First Header
+
+### Sub Header
+
+#### Sub Sub Header
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/34UutDrXV2Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Published to YouTube in January of 2017, the video has become home to hundreds of unique attempts to define the particular sound, or “aesthetic” — mainly, of the first track, “Talking.” One listener writes that it’s “like a warm glass of milk and the feeling of time slowing down to a crawl,” while another proclaims that he “played this at [his] vacuum cleaner’s funeral.” A different listener equates the music to the feeling of “going to a job interview, but being greeted by a man sized frog in a suit” who then “speaks softly and kindly to you while smiling faintly. You talk about your dreams and aspirations over coffee at a local cafe while it rains outside.﻿”
 
 Huh.
