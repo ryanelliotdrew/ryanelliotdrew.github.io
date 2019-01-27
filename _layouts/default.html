@@ -10,9 +10,7 @@
 
     {{ content }}
 
-    {% if page.title != 'Home Page' %}
-      {% include sidebar-toggle.html %}
-    {% endif %}
+    {% include sidebar-toggle.html %}
 
     {% if page.title == 'Home Page' %}
       {% include footer.html %}
