@@ -12,7 +12,7 @@ relative_permalinks: false
 locale:              en_use # eg. en_us
 name:				         site name
 title:               Ryan Elliot Drew
-tagline:             'tagline'
+tagline:             #put this between single quotes
 description:         'A personal blog'
 url:                 site url
 rss:                 rss feed url
