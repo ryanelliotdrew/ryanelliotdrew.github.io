@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  “Watering a Flower”
+title:  “Watering A Flower”
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
 categories: history
 tags:  mickey

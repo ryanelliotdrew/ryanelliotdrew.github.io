@@ -11,7 +11,7 @@ relative_permalinks: false
 #timezone:            your timezone # eg. Asia/Kathmandu
 locale:              en_use # eg. en_us
 name:				         site name
-title:               Cellar Door
+title:               Ryan Elliot Drew
 tagline:             'tagline'
 description:         'A personal blog'
 url:                 site url
