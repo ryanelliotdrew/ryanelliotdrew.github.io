@@ -1,11 +1,15 @@
 ---
 layout: post
-title:  “Watering A Flower”
+title:  Watering A Flower
 excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
-categories: history
-tags:  mickey
+categories: Music
+tags:
+  - Music
+  - Hosono
+  - Electronic
+  - MUJI
 image:
-  feature: wateringaflowercover.jpg
+  feature: tanaka.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
