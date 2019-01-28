@@ -9,7 +9,7 @@ tags:
   - Electronic
   - MUJI
 image:
-  feature: tanaka.jpg
+  feature: haroumi2.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
