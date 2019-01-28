@@ -1,0 +1,33 @@
+---
+layout: post
+title:  Song Writing: Spatial or Sonic?
+excerpt: "Disney had Ub Iwerks secretly begin animating a new cartoon while still under contract with Universal..."
+categories: Music
+tags:
+  - Music
+  - Piano
+  - Lessons
+  - Song Writing
+image:
+  feature: piano.jpg
+  topPosition: -50px
+bgContrast: dark
+bgGradientOpacity: darker
+syntaxHighlighter: no
+---
+I’ve been teaching introductory piano for a few years now—a practice that I’ve come to enjoy more and more recently. Usually with children between the ages of about 6-10 years old, lessons have been approximately 30 minutes, on a weekly basis. In addition to standard repertoire and technical studies, I’ve always encouraged my students to be creative and write their own songs (or come up with their own original musical expressions). Throughout my time teaching, I’ve noticed certain trends in the ways children approach the creative processes, leading me to the following question: to what extent are young children’s musical creations developed *spatially,* as opposed to only *sonically?*
+
+For the record, I should note that everything that I suggest is purely speculative, and are based only off of my own observations. I remember when I was much younger, I was taught piano by my mom. Every Sunday afternoon, we’d sit down at the piano in the living room for what seemed like the entire day and we would trudge through technique exercises (truly the most unenjoyable aspect of any young musician’s career), before tackling various selections of repertoire. Looking back on these weekly adventures, I’m both appreciative and astounded by the patience she had with me. Fast forward to today, my mom continues to be a great resource for teaching strategies—what works and what doesn’t work—and for the many sheets of success stickers I’ve “borrowed” from her studio. Under her recommendation, I have my teaching around the *Hal Leonard series,* which serves as a fantastic first orientation to the piano, and prepares students quite well for the *Royal Conservatory of Canada* grade 1 standards.
+
+The *Hal Leonard* series, much like other introductory method books, breaks down all the skills a piano player must have, introducing new elements one at a time. In the world of piano education, it is standard practice to introduce the layout of the piano keys with reference to patterns and spatial relationships. What this means, is that the black keys are the first importance; they are laid out in a simple pattern of 2, 3, 2, 3, etc… and is an easily grasped concept. It isn’t until after the piano player is completely confident with their understanding of the black keys that the white keys are introduced. Of course, the only way that we can discuss the white keys, is in *relation* to the black keys. At this point—and this *does* vary from series to series—letter names are associated with the white keys. First, you learn your CDE groups, falling immediately around the groups of two black notes, followed by your FGAB groups, falling immediately around the groups of three black notes.
+
+Before the white keys are introduced, all repertoire is exclusively played on the black keys. The preconceptions that most experienced musicians would have when they think about black notes are irrelevant to the beginner pianist. To clarify, black keys are often thought of when we talk about accidentals, and it is a common mindset that the more black keys we use, the more challenging the music is. There is simple logic behind this; we read music as note names (A, B, C, etc…) and then react by pressing a finger on the corresponding key. While an A, for example, is the original state of an A, an A# represents a deviation from the original state. This is all to say that from the perspective of a beginner, spatial and sonic relations are all that matter.
+
+There is this one piece—it’s origins unknown to me—that despite annoying the living hell out of me, has captivated the minds of many children. According to YouTube, the piece is called “Knuckle Roll,” comprised of a short melody played on the black notes with the knuckles. Seeming to be today’s anthem of early childhood, I always find it interesting how many children who have never taken lessons pull this song out to dazzle their friends—it’s almost like a secret handshake; if you don’t know it, you’re not cool.
+
+Here’s a link to the piece: https://youtu.be/DkCzgGovWgE
+*(This is a slight variation on what I’m used to hearing)*
+
+What makes this particular selection so accessible to all, is that *performatively*, it is about as simple as it possible. There isn’t even a need to use your fingers; a closed fist will do the trick just fine. Moreover, a beginner pianist, or anyone for that matter, is instantaneously able to recognize the spatial pattern of the song, and apply the learned motions on the piano keys. My personal bias aside, “Knuckle Roll” is exceptionally *unmusical* in the sense that it is understood and performed functionally, rather than musically in many cases. To be more explicit, you rest your closed hand on any group of three black keys, and then execute a simple sequence of mimicked gestures.
+
+This brings me to the point I made earlier, with regards to musical creativity on the piano and how children seem to approach their own compositions with spatial limitations. An easy example of this would a piece that one student wrote that only the black keys. First, they played an ascending melody, and then they mirrored it and played the same melody, descending. Another example that comes to mind is a piece where the student, beginning with their thumb on C, plays the following sequence: C, D, C, D, E, D, C, D, E, F, E, D, C, etc… Melodically, this pattern is respectable; however, there exists no rhythmic justification, and after recording the song, I was unable to properly transcribe the work without using mixed meter. One last example of creativity resting upon spatial familiarity is with a student works’ instruction that one play the “highest” or “lowest” note on the piano.
