@@ -2,11 +2,11 @@
 layout: post
 title:  Template Post
 last_modified_at:  1928-11-18 01:00:00
-excerpt: "Disney had Ub wowkrwkrkwr secretly begin animating a new cartoon while still under contract with Universal..."
+excerpt: "Disney had secretly begin animating a new cartoon while still under contract with Universal..."
 categories: Template
 tags:  Template
 image:
-  feature: steamboat.jpg
+  feature: piano.jpg
   topPosition: -50px
 bgContrast: dark
 bgGradientOpacity: darker
@@ -21,6 +21,6 @@ Here is a sample image:
 <div class="img img--fullContainer" style="background-image: url(/assets/images/WateringAFlowerScore.png);"></div>
 
 <figure>
-	<img src="/assets/images/WateringAFlowerScore.png">
-	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
+  <img src="/assets/images/wateringaflowercover.jpg">
+  <figcaption><b>Fig 1.</b> Hosono’s <i>Watering a Flower</i> cover art</figcaption>
 </figure>
