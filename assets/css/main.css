@@ -218,6 +218,53 @@ th {
   padding: 0;
 }
 
+figure {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+      align-items: flex-start;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 2em 0;
+}
+figure img,
+figure iframe,
+figure .fluid-width-video-wrapper {
+  margin-bottom: 1em;
+}
+figure img {
+  width: 100%;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+figure > a {
+  display: block;
+}
+
+/* Figure captions */
+/*
+figcaption {
+  margin-bottom: 0.5em;
+  color: $text-color;
+  font-family: $caption-font-family;
+  font-size: $type-size-6;
+
+  a {
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+
+    &:hover {
+      color: $link-color-hover;
+    }
+  }
+}
+*/
 .animate {
   -webkit-transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
           transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
@@ -491,7 +538,7 @@ body {
 }
 
 .brandLogo {
-  background-image: url(../images/logo-white.svg);
+  background-image: url(../images/logos/logo-white.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -506,12 +553,12 @@ body {
 }
 
 .brandLogo--black {
-  background-image: url(../images/logo-black.svg);
+  background-image: url(../images/logos/logo-black.svg);
 }
 
 .textLogo {
   display: block;
-  background-image: url(../images/logo-text-black.svg);
+  background-image: url(../images/logos/logo-text-black.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: 0 0;
@@ -521,7 +568,7 @@ body {
 }
 
 .textLogo--white {
-  background-image: url(../images/logo-text-white.svg);
+  background-image: url(../images/logos/logo-text-white.svg);
 }
 
 .textLogo--sidebar {
@@ -2202,39 +2249,39 @@ body {
 }
 
 .socialAccount--twitter {
-  background-image: url(../images/twitter--black.svg);
+  background-image: url(../images/logos/twitter--black.svg);
 }
 
 .socialAccount--facebook {
-  background-image: url(../images/facebook--black.svg);
+  background-image: url(../images/logos/facebook--black.svg);
 }
 
 .socialAccount--linkedin {
-  background-image: url(../images/linkedin--black.svg);
+  background-image: url(../images/logos/linkedin--black.svg);
 }
 
 .socialAccount--dribbble {
-  background-image: url(../images/dribbble--black.svg);
+  background-image: url(../images/logos/dribbble--black.svg);
 }
 
 .socialAccount--pinterest {
-  background-image: url(../images/pinterest--black.svg);
+  background-image: url(../images/logos/pinterest--black.svg);
 }
 
 .socialAccount--kiva {
-  background-image: url(../images/kiva--black.svg);
+  background-image: url(../images/logos/kiva--black.svg);
 }
 
 .socialAccount--rss {
-  background-image: url(../images/rss--black.svg);
+  background-image: url(../images/logos/rss--black.svg);
 }
 
 .socialAccount--instagram {
-  background-image: url(../images/instagram--black.svg);
+  background-image: url(../images/logos/instagram--black.svg);
 }
 
 .socialAccount--gmail {
-  background-image: url(../images/gmail--black.svg);
+  background-image: url(../images/logos/gmail--black.svg);
 }
 
 .section--last {
@@ -2360,7 +2407,7 @@ body {
   position: absolute;
   top: 0;
   display: block;
-  background-image: url(../images/heart.svg);
+  background-image: url(../images/logos/heart.svg);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: 60%;
@@ -2534,27 +2581,27 @@ body {
 }
 
 .shareButton--twitter {
-  background-image: url(../images/twitter.svg);
+  background-image: url(../images/logos/twitter.svg);
 }
 
 .shareButton--facebook {
-  background-image: url(../images/facebook.svg);
+  background-image: url(../images/logos/facebook.svg);
 }
 
 .shareButton--linkedin {
-  background-image: url(../images/linkedin.svg);
+  background-image: url(../images/logos/linkedin.svg);
 }
 
 .shareButton--buffer {
-  background-image: url(../images/buffer.svg);
+  background-image: url(../images/logos/buffer.svg);
 }
 
 .shareButton--hackernews {
-  background-image: url(../images/ycombinator.svg);
+  background-image: url(../images/logos/ycombinator.svg);
 }
 
 .shareButton--pocket {
-  background-image: url(../images/pocket.svg);
+  background-image: url(../images/logos/pocket.svg);
 }
 
 .textInput {

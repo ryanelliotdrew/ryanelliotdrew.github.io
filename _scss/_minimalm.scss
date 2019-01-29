@@ -1,4 +1,6 @@
-@import "minimalm_variables";
+$border-radius: 4px !default;
+$global-transition: all 0.2s ease-in-out !default;
+
 
 figure {
   display: -webkit-box;
@@ -30,10 +32,10 @@ figure {
 }
 
 /* Figure captions */
-
+/*
 figcaption {
   margin-bottom: 0.5em;
-  color: $muted-text-color;
+  color: $text-color;
   font-family: $caption-font-family;
   font-size: $type-size-6;
 
@@ -46,3 +48,4 @@ figcaption {
     }
   }
 }
+*/

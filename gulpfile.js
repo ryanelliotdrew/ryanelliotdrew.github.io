@@ -17,12 +17,14 @@ var messages = {
 /**
  * Build the Jekyll Site
  */
+ /*
 gulp.task('jekyll-build', function (done) {
     //browserSync.notify(messages.jekyllBuild);
     return cp.exec('jekyll', ['build', '--config=_config.yml'])
         .on('error', (error) => gutil.log(gutil.colors.red(error.message)))
         .on('close', done);
 });
+*/
 
 /**
  * Rebuild Jekyll & do page reload
@@ -73,7 +75,7 @@ gulp.task('styles', function() {
  * Automatically resize post feature images and turn them into thumbnails
  */
 gulp.task("thumbnails", function () {
-  gulp.src("assets/images/hero/*.{jpg,png}")
+  gulp.src("assets/images/*.{jpg,png}")
     .pipe(parallel(
       imageResize({ width : 350 }),
       os.cpus().length
