@@ -218,6 +218,77 @@ th {
   padding: 0;
 }
 
+/* ==========================================================================
+   Variables
+   ========================================================================== */
+/*
+   Typography
+   ========================================================================== */
+/* paragraph indention */
+/* system typefaces */
+/* sans serif typefaces */
+/* serif typefaces */
+/* type scale */
+/*
+   Colors
+   ========================================================================== */
+/* YIQ color contrast */
+/* brands */
+/* links */
+/* syntax highlighting (base16) */
+/*
+   Breakpoints
+   ========================================================================== */
+/*
+   Grid
+   ========================================================================== */
+/*
+   Other
+   ========================================================================== */
+figure {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -ms-flex-pack: justify;
+      justify-content: space-between;
+  -webkit-box-align: start;
+  -ms-flex-align: start;
+      align-items: flex-start;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  margin: 2em 0;
+}
+figure img,
+figure iframe,
+figure .fluid-width-video-wrapper {
+  margin-bottom: 1em;
+}
+figure img {
+  width: 100%;
+  border-radius: 4px;
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+figure > a {
+  display: block;
+}
+
+/* Figure captions */
+figcaption {
+  margin-bottom: 0.5em;
+  color: #898c8f;
+  font-family: Georgia, Times, serif;
+  font-size: 0.75em;
+}
+figcaption a {
+  -webkit-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+}
+figcaption a:hover {
+  color: #266477;
+}
+
 .animate {
   -webkit-transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
           transition: all 0.5s cubic-bezier(0.23, 1, 0.32, 1);
@@ -235,7 +306,7 @@ html {
   font-family: "Source Serif Pro", serif;
   font-size: 137.5%;
   font-weight: 400;
-  color: rgba(0, 0, 0, 0.8);
+  color: #494e52;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-feature-settings: "kern" 1;
@@ -360,16 +431,16 @@ h6 {
 }
 
 a {
-  color: rgba(0, 0, 0, 0.8);
+  color: #32859e;
   text-decoration: none;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(75%, rgba(0, 0, 0, 0)), color-stop(75%, rgba(0, 0, 0, 0.8)));
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.8) 75%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(75%, rgba(50, 133, 158, 0)), color-stop(75%, rgba(50, 133, 158, 0.8)));
+  background-image: linear-gradient(to bottom, rgba(50, 133, 158, 0) 75%, rgba(50, 133, 158, 0.8) 75%);
   background-repeat: repeat-x;
   background-position: 0 22px;
   background-size: 2px 2px;
 }
 a:hover {
-  color: rgba(0, 0, 0, 0.8);
+  color: #205464;
 }
 
 /* Tables */
