@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  “Watering a Flower”
+title:  Template Post
 last_modified_at:  1928-11-18 01:00:00
 excerpt: "Disney had Ub wowkrwkrkwr secretly begin animating a new cartoon while still under contract with Universal..."
-categories: history
-tags:  mickey
+categories: Template
+tags:  Template
 image:
   feature: steamboat.jpg
   topPosition: -50px
@@ -12,33 +12,4 @@ bgContrast: dark
 bgGradientOpacity: darker
 syntaxHighlighter: no
 ---
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Mickey_Mouse)
-
-*“This is like waking up at 3am because you are hungry. So you head to the kitchen, and find out a giant insect already sticking some marmalade between two slices of bread. The insect offers the sandwich to you, as a sign of respect. You take a bite out of it, and start crying tears of joy. It’s a beautiful sandwich, and the winter is coming to an end﻿.” (dmsanct, 2016)*
-
-![Watering a Flower Cover Art](/assets/images/wateringaflower.jpg “Watering A Flower Cover Art")
-Fig 1. Hosono’s Watering a Flower cover art
-
-A YouTube comment of this nature can be interpreted in one of two ways — either as the absurd rambling of a cracked internet user who has failed to take their daily meds, or, perhaps, as a poetic attempt to summarize a bizarre sonic manifestation. At first glance, the former of these two interpretations seems to be the easiest conclusion. What can possibly be gained by taking some dude’s giant, sandwich-serving insect fantasys seriously? In truth, probably not that much. However, whatever it was that inspired such unusually vivid imagery, YouTuber dmssanct was certainly not the first, or only one, to experience it.
-
-Haruomi Hosono’s 1984 album, Watering a Flower, is peculiar, to say the least. Comprised of three separate tracks, “Talking”, “Growth”, and “Muji Original BGM” (each approximately 15 minutes in length), the opening track appears to have sparked the most conversation.
-
-Here’s a link the full album: https://youtu.be/34UutDrXV2Q
-Published to YouTube in January of 2017, the video has become home to hundreds of unique attempts to define the particular sound, or “aesthetic” — mainly, of the first track, “Talking.” One listener writes that it’s “like a warm glass of milk and the feeling of time slowing down to a crawl,” while another proclaims that he “played this at [his] vacuum cleaner’s funeral.” A different listener equates the music to the feeling of “going to a job interview, but being greeted by a man sized frog in a suit” who then “speaks softly and kindly to you while smiling faintly. You talk about your dreams and aspirations over coffee at a local cafe while it rains outside.﻿”
-
-Huh.
-
-So the question becomes, what exactly is the connection between Hosono’s “Watering a Flower” and this trend of surrealist storytelling? And furthermore, is there a discernible theme or commonality among these comments?
-First off, it’s important to understand the album’s origin. Watering a Flower was commissioned in 1983 by Japanese retail company, MUJI, as a selection of background music for in-store play. In the business world, this is directly comparable to the brand of background music, Muzak, which was founded just a few years prior. The logic is simple: ensure the comfort of potential money-spenders by means of a carefully cultivated sonic surrounding, and profit margins will increase. In short, this is why commercial locations play music — especially music that is noninvasive, merely blending itself within the environment. In achieving this, a common tactic amongst muzak creators is to rely heavily on familiarity, leaving as little for the listener to “figure out” as possible. An easy way to do this is to completely remove the human voice from the mix, and to reduce the instrumentation or simplify the overall timbre. With this in mind, the album’s first track is certainly not invasive with regards to its perceived complexity! For a quarter of an hour, Hosono’s “Talking” features a slow, high-pitched pulse that acts as constant throughout the track, and is accompanied by the incessant repetition of a simple chordal motif. While this harmonic progression is repeated ad nauseum, subtle rhythmic variations create a sense of unpredictability in a seemingly predictable context. Given the simplistic, repeated nature of the melodic gesture, rhythmic deviations are inherently accentuated, and thus, the dimension of time is foregrounded.
-
-Fig 2. The opening chordal gesture in Hosono’s “Talking”
-
-Another commenter, Martin Dufek, calls us “fools” before asserting that “this not music, this is just [the] progress of time!﻿” Ironic or not, Dufek’s contribution does highlight Hosono’s creative outset. As the listener is endlessly dragged through the series of chords (seen in figure 1), there exists a distinct lack of development or forward motion within the music. We often analogize melodic line with the human voice, namely, in the way that subtle changes of inflection characterize the intent of an expression. In the same way that an answer follows a question in everyday language, resolution follows instability in music… or at least, that’s what our brain naturally expects. Hosono’s “Talking” exemplifies just the opposite, with the principle theme landing on V, the dominant, and never actually resolving to I, the tonic. This “question” is repeated over and over again to no avail. With each repetition, Hosono introduces subtle rhythmic variance, posing the exact same question in a slightly altered contexts. With no closure, the question persists with no regard for passing time.
-
-To complicate things more, the bass line serves the exact opposite purpose of the accompanying chordal voice. While contributing to the rhythmic ambiguity, the bass voice stabilizes the tonal center of C with the occasional VI - V - I cadence. It might be suggested that the both the chordal and bass voice act as one, joining to create a satisfyingly resolved motif; however, I would argue that their respective functions are perceived separately. Furthering this instability, the high-pitched pulsing tone in the top voice rests fixed on a G, the dominant. While the bass voice anchors the listener in the home key, both of the upper voices culminate in an uncertain, questioning reluctance to resolve.
-
-The particular aesthetic quality of Hosono’s work has clearly captivated the imaginations of many of those who have stumbled across its obscurities. With well over a thousand bizarre and poetic comments detailing individual takes on the album, it appears that this particular niche represents an internet micro-trend that continues to be expanded upon. Even attempting to discuss the distinct aesthetic character of Hosono’s “Talking” proves challenging. Removed from its original intended context within a Japanese department store, the music has elicited starkly contrasting themes, spanning the innocence of childhood, to the dread associated with anxiety, death, and decay. Hosono’s work exhibits an undeniable emptiness to which we, as listeners, are left to fill.
-
-“I feel like I've been dead for quite some time. 30 years maybe. Familiar things and places have decayed over the years and my memory is now faded, forgotten. People are just...vaguely existing, numb and quiet, crumbling. It also makes me feel like the world isn't real, like nothing is real. None of this is really happening. I'm in a coma and dreaming all of this. I hear my name being called out sometimes but it sounds so far away.” (KutsaiChan).
-
-“[M]y stomach is filled to the brim with toothpaste﻿” (Sid)
+This is a template post.
