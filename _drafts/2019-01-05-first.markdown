@@ -16,10 +16,6 @@ This is a template post.
 
 Here is a sample image:
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url(/assets/images/wateringaflowercover.jpg);"></div>
-
-<div class="img img--fullContainer" style="background-image: url(/assets/images/WateringAFlowerScore.png);"></div>
-
 <figure>
   <img src="/assets/images/wateringaflowercover.jpg">
   <figcaption><b>Fig 1.</b> Hosono’s <i>Watering a Flower</i> cover art</figcaption>
