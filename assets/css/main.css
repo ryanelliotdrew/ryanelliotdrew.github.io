@@ -218,39 +218,6 @@ th {
   padding: 0;
 }
 
-/* ==========================================================================
-   Variables
-   ========================================================================== */
-/*
-   Typography
-   ========================================================================== */
-/* paragraph indention */
-/* system typefaces */
-/* sans serif typefaces */
-/* serif typefaces */
-/* type scale */
-/*
-   Colors
-   ========================================================================== */
-/* YIQ color contrast */
-/* brands */
-/* links */
-/*$link-color: mix(#000, $info-color, 15%) !default;
-$link-color-hover: mix(#000, $link-color, 25%) !default;
-$link-color-visited: mix(#fff, $link-color, 15%) !default;
-$masthead-link-color: $primary-color !default;
-$masthead-link-color-hover: mix(#000, $primary-color, 25%) !default;
-$navicon-link-color-hover: mix(#fff, $primary-color, 75%) !default;*/
-/* syntax highlighting (base16) */
-/*
-   Breakpoints
-   ========================================================================== */
-/*
-   Grid
-   ========================================================================== */
-/*
-   Other
-   ========================================================================== */
 figure {
   display: -webkit-box;
   display: -ms-flexbox;
@@ -315,7 +282,7 @@ html {
   font-family: "Source Serif Pro", serif;
   font-size: 137.5%;
   font-weight: 400;
-  color: #494e52;
+  color: rgba(0, 0, 0, 0.8);
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
   font-feature-settings: "kern" 1;
@@ -440,16 +407,16 @@ h6 {
 }
 
 a {
-  color: #494e52;
+  color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
-  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(75%, rgba(73, 78, 82, 0)), color-stop(75%, rgba(73, 78, 82, 0.8)));
-  background-image: linear-gradient(to bottom, rgba(73, 78, 82, 0) 75%, rgba(73, 78, 82, 0.8) 75%);
+  background-image: -webkit-gradient(linear, left top, left bottom, color-stop(75%, rgba(0, 0, 0, 0)), color-stop(75%, rgba(0, 0, 0, 0.8)));
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 75%, rgba(0, 0, 0, 0.8) 75%);
   background-repeat: repeat-x;
   background-position: 0 22px;
   background-size: 2px 2px;
 }
 a:hover {
-  color: #25282a;
+  color: rgba(0, 0, 0, 0.8);
 }
 
 /* Tables */
