@@ -16,11 +16,11 @@ This is a template post.
 
 Here is a sample image:
 
-<div class="img img--fullContainer img--14xLeading" style="background-image: url(/assets/images/posts/wateringaflowercover.jpg);"></div>
+<div class="img img--fullContainer img--14xLeading" style="background-image: url(/assets/images/wateringaflowercover.jpg);"></div>
 
-<div class="img img--fullContainer" style="background-image: url(/assets/images/hero/WateringAFlowerScore.png);"></div>
+<div class="img img--fullContainer" style="background-image: url(/assets/images/WateringAFlowerScore.png);"></div>
 
 <figure>
-	<img src="/assets/images/hero/WateringAFlowerScore.png">
+	<img src="/assets/images/WateringAFlowerScore.png">
 	<figcaption><a href="http://www.flickr.com/photos/80901381@N04/7758832526/" title="Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr">Morning Fog Emerging From Trees by A Guy Taking Pictures, on Flickr</a>.</figcaption>
 </figure>
