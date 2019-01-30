@@ -20,3 +20,7 @@ Here is a sample image:
   <img src="/assets/images/wateringaflowercover.jpg">
   <figcaption><b>Fig 1.</b> Hosono’s <i>Watering a Flower</i> cover art</figcaption>
 </figure>
+
+<div style="text-align: justify">
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis mattis fringilla augue nec tempor. In facilisis vehicula est sit amet bibendum. Sed sit amet felis finibus mi convallis elementum. Curabitur ultricies, nisl vel pharetra accumsan, nunc lectus semper felis, sit amet tincidunt leo dolor ac arcu. Phasellus ultrices eget magna non vulputate. Proin metus enim, gravida a elementum sit amet, sollicitudin non ante. Cras vitae diam nec est elementum efficitur sed nec ex.
+</div>
