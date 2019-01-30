@@ -14,7 +14,7 @@ name:				         site name
 title:               Ryan Elliot Drew
 tagline:             #put this between single quotes
 description:         'writings on art, culture, and travel'
-url:                 site url
+url:                 ryanelliotdrew.github.io/
 rss:                 rss feed url
 baseurl:             ''
 baseurl_posts_img:   '/assets/images/'
