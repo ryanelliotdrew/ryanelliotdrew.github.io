@@ -13,7 +13,7 @@ locale:              en_use # eg. en_us
 name:				         site name
 title:               Ryan Elliot Drew
 tagline:             #put this between single quotes
-description:         'a personal blog'
+description:         'writings on art, culture, and travel'
 url:                 site url
 rss:                 rss feed url
 baseurl:             ''
